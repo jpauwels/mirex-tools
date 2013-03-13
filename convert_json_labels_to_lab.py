@@ -8,7 +8,7 @@
 # <js_dir>		the directory with the js-files
 # <lab_dir>		the directory in which the resulting lab-files should be saved
 # 
-# Author: Johan Pauwels (johan.pauwels@elis.ugent.be)
+# Author: Johan Pauwels (johan.pauwels@gmail.com)
 # Last changed: 2010-08-08
 # License: GPL
 # 
